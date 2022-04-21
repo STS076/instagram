@@ -1,0 +1,19 @@
+
+.sophie {
+    height: 2rem;
+    width: 2rem;
+}
+
+.dior{
+    object-fit: cover;
+    width: 80%;
+    height: auto;
+}
+
+.fontsize{
+    font-size: 0.8rem;
+}
+
+.agrandir{
+    height: 50vh;
+}
